@@ -1,13 +1,12 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15620579&assignment_repo_type=AssignmentRepo)
 # TÍTULO DO PROJETO
 
-`CURSO`
+Análise e Desenvolvimento de Sistemas
 
-`DISCIPLINA`
+Trabalho interdisciplinar aplicações interativas
 
-`SEMESTRE`
-
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+`terceiro semestre`
+A proposta do projeto é entregar de forma funcional e agil um sistema de controle e gestão acadêmica que facilita o gerenciamento de atividades como matrículas, controle de notas e frequência, automatizando processos e permitindo o acesso remoto para alunos e professores. Ele centraliza informações e otimiza o acompanhamento da vida acadêmica.
 
 ## Integrantes
 
